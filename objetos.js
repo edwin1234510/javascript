@@ -19,3 +19,5 @@ persona.despedida = function(){
 //     console.log("no fue definido");
 // }
 console.log(Object.keys(persona).includes("edad"));
+
+// console.log(Object.keys()); ---> para saber los atributos que tiene el objeto
